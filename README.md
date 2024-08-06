@@ -1,4 +1,4 @@
-# FORK DO REPOSITÓRIO ORIGINAL DO ALFREDO OTÁVIO 
+
 # Zabbix Server with MySQL, Grafana and Traefik in a Docker Compose
 
 ##  Describe
